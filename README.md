@@ -22,9 +22,7 @@ This project is a work-in-progress, and lacks complete parsing.
 | BaggageApplicationProgram | `{manufacturerId}`/`{applicationProgramId}`.xml | Contains a version of the application program information for the given device                                | No                  |
 
 ## Installation
-**(Currently not on Composer)**
-
-`composer require avolle/knx-archive`
+`composer require avolle/knx-project-parser`
 
 ## Usage
 
